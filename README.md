@@ -19,4 +19,8 @@ To streamline product discovery, I introduced clear category tabs for Men, Women
 I switched the background color to black to create a bold, high-contrast look. This not only adds a premium feel but also improves text readability and makes product images stand out more effectively.
 4. Reorganized and Expanded Footer
 The footer layout was cleaned up and made more informative. I added extra social media links to strengthen brand presence and encourage user engagement. This makes it easier for users to connect with Wilde Amor across platforms.
-These updates bring a fresh, modern aesthetic to the site while making it significantly easier to navigate, shop, and interact with the brand
+These updates bring a fresh, modern aesthetic to the site while making it significantly easier to navigate, shop, and interact with the brand.
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/bd363036-64ed-4832-8819-f3e9eacef69d)
